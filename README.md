@@ -1,4 +1,4 @@
-# SW-MCU-STM32-BLE-053
+# SW-MCU-STM32-BLE-055
 
 Here is simple BLE test code to control a GPIO pin using HM-10 module and STM32F103.<br>
 You can use this code share any type of data from stm32 to another device.
